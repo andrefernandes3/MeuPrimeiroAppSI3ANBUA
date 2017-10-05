@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppSI3ANBUA_Professor</string>
+    <string name="hello_world">Olá Mundo</string>
+    <string name="dica">Digite seu texto</string>
+    <string name="ok">OK</string>
+</resources>

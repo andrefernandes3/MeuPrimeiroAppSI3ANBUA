@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppSI3ANBUA</string>
+    <string name="dica">"Some Type "</string>
+    <string name="hello_world">Hello World</string>
+    <string name="ok">OK</string>
+</resources>
