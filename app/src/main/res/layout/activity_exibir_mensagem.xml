@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="andre.usjt.br.meuprimeiroappsi3anbua.ExibirMensagemActivity">
+    tools:context="andre.usjt.br.meuprimeiroappsi3anbua.ExibirMensagemActivity"
+    android:id="@+id/activity_exibir_mensagem">
 
 </android.support.constraint.ConstraintLayout>
